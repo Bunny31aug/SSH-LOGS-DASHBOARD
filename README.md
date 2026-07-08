@@ -85,7 +85,7 @@ All panels share a single time-range input (`time_range`, default last 24 hours)
 ## Setup
 1. Install Splunk Enterprise (or Splunk Free) locally or in a VM.
 2. Ingest SSH/auth log data as `ssh_logs_new.json` (JSON-formatted SSH/Zeek-style events) with sourcetype `_json` on host `Linux_Server` — or update the queries above to match your own source/host/sourcetype.
-3. Import `dashboard.xml` into Splunk under **Dashboards > Create New Dashboard > Import** (or paste it into the Source Editor).
+3. Import `SSH_Dashboard.xml` into Splunk under **Dashboards > Create New Dashboard > Import** (or paste it into the Source Editor).
 4. Use the time-range picker at the top to adjust the analysis window across all panels.
 
 ## Repository Contents
