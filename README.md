@@ -89,8 +89,7 @@ All panels share a single time-range input (`time_range`, default last 24 hours)
 4. Use the time-range picker at the top to adjust the analysis window across all panels.
 
 ## Repository Contents
-- `dashboard.xml` — Splunk dashboard source (Simple XML)
-- `screenshots/` — sample dashboard views (event summary, brute-force table, geo-location map)
+- `SSH_Dashboard.xml` — Splunk dashboard source (Simple XML)
 - `README.md` — this file
 
 ## Author
