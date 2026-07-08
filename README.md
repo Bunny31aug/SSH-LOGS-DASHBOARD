@@ -95,4 +95,4 @@ All panels share a single time-range input (`time_range`, default last 24 hours)
 ## Author
 **Anish Chakraborty**
 Security Operations Analyst (SOC)
-[LinkedIn](https://linkedin.com/in/www.linkedin.com/in/anish-chakraborty-79448a20b)
+[LinkedIn](www.linkedin.com/in/anish-chakraborty-79448a20b)
